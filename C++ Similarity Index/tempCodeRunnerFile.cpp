@@ -1,0 +1,1 @@
+cout << "jaro similarity: " << index << endl;
